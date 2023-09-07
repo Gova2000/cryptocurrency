@@ -1,0 +1,32 @@
+/* Write your CSS code here */
+.img1 {
+  height: 50px;
+  width: 50px;
+  border: none;
+  border-top-right-radius: 55px;
+  border-top-left-radius: 50px;
+  border-bottom-left-radius: 55px;
+  border-bottom-right-radius: 50px;
+  margin-right: 10px;
+}
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 10px;
+}
+.card1 {
+  width: 550px;
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+  padding-left: 20px;
+}
+.type1 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 200px;
+  padding-right: 20px;
+}
